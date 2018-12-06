@@ -1,0 +1,36 @@
+{
+  "name": "react-js-buy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^15.6.2",
+    "react-dom": "^15.5.4",
+    "react-intl": "^2.7.2",
+    "react-message-context": "^0.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-slick": "^0.23.2",
+    "react-slider": "^0.11.2",
+    "shopify-buy": "^1.2.0",
+    "slick-carousel": "^1.8.1",
+    "typescript": "^3.2.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "babel-core": "^7.0.0-bridge.0",
+    "extract-react-intl-messages": "^0.11.1",
+    "react-scripts": "^2.1.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
